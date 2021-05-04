@@ -1,2 +1,2 @@
 # hqf-mazes
-Small game of mazes in Unity
+Mazes creation. To be integrated in a Unity project.
